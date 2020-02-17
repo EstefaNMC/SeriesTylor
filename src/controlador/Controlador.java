@@ -47,7 +47,7 @@ public class Controlador {
 				
 				System.out.println(ex);
 				
-				View.displayErrorMessage("You Need to Enter 2 Integers");
+				View.displayErrorMessage("Error");
 				
 			}
 			
